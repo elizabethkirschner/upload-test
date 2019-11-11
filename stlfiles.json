@@ -1,0 +1,15 @@
+{
+  "clickable":
+  [
+    { 
+     "file_name" : "assets/stl/prison_room_1_floor_1.STL",
+     "link" : "cell1.html"
+    }
+  ],
+  "not_clickable" : 
+  [
+    { 
+      "file_name" : "assets/stl/full_prison_assem07112019(with3buidlings).STL" 
+    }
+  ]
+}
